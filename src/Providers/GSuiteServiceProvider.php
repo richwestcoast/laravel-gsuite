@@ -1,9 +1,9 @@
 <?php
 
-namespace ColoredCow\LaravelGSuite\Providers;
+namespace Richwestcoast\RNLaravelGSuite\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use ColoredCow\LaravelGSuite\Services\UserService;
+use Richwestcoast\RNLaravelGSuite\Services\UserService;
 
 class GSuiteServiceProvider extends ServiceProvider
 {
