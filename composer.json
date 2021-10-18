@@ -18,14 +18,14 @@
         "php": "^7.1",
         "laravel/socialite": "^5.0",
         "google/auth": "^1.3",
-        "google/apiclient": "^2.2",
+        "google/apiclient": "^2.7",
         "doctrine/dbal": "^2.8"
     },
     "authors": [
         {
-            "name": "ColoredCow",
-            "email": "laravel@coloredcow.in",
-            "homepage": "https://coloredcow.com"
+            "name": "Richwestcoast",
+            "email": "@richwestcoast",
+            "homepage": "https://twitter.com/richwestcoast"
         }
     ],
     "autoload": {
