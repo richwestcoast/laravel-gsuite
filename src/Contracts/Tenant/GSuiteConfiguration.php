@@ -1,6 +1,6 @@
 <?php
 
-namespace ColoredCow\LaravelGSuite\Contracts\Tenant;
+namespace Richwestcoast\RNLaravelGSuite\Contracts\Tenant;
 
 interface GSuiteConfiguration
 {
