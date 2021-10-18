@@ -1,8 +1,8 @@
 <?php
 
-namespace ColoredCow\LaravelGSuite\Facades;
+namespace Richwestcoast\RNLaravelGSuite\Facades;
 
-use ColoredCow\LaravelGSuite\Services\UserService;
+use Richwestcoast\RNLaravelGSuite\Services\UserService;
 use Illuminate\Support\Facades\Facade;
 
 class GSuiteUserService extends Facade
