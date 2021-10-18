@@ -1,6 +1,6 @@
 <?php
 
-namespace ColoredCow\LaravelGSuite\Services;
+namespace Richwestcoast\RNLaravelGSuite\Services;
 
 use Carbon\Carbon;
 use Google_Service_Directory;
