@@ -1,9 +1,9 @@
 <?php
 
-namespace ColoredCow\LaravelGSuite\Models\Tenant;
+namespace Richwestcoast\RNLaravelGSuite\Models\Tenant;
 
 use Illuminate\Database\Eloquent\Model;
-use ColoredCow\LaravelGSuite\Contracts\Tenant\GSuiteConfiguration as GSuiteConfigurationContract;
+use Richwestcoast\RNLaravelGSuite\Contracts\Tenant\GSuiteConfiguration as GSuiteConfigurationContract;
 
 class GSuiteConfiguration extends Model implements GSuiteConfigurationContract
 {
