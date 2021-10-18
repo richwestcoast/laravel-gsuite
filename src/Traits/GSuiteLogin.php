@@ -1,6 +1,6 @@
 <?php
 
-namespace ColoredCow\LaravelGSuite\Traits;
+namespace Richwestcoast\RNLaravelGSuite\Traits;
 
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
